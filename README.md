@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnushGhodmare
-- 👀 I’m interested in Fullstack web devlopment
-- 🌱 I’m currently learning OOP,Dsa,Javascript,html,css
+- 👀 I’m interested in Cloud Computing and devops engineer role
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me anushghodmare@gmail.com
 - 😄 Pronouns: He/Him
