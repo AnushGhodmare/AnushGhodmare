@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnushGhodmare
-- 👀 I’m interested in Cloud Computing and devops engineer role
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me anushghodmare@gmail.com
