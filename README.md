@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @AnushGhodmare
-- 👀 I am a Java Devloper
-- 🌱 I’m currently learning Spring ans Springboot
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me anushghodmare@gmail.com
-- 😄 Pronouns: He/Him
-- Fun fact : I love watching suspense thriller movies
+In this project i have created Bank Management application using SpringBoot  and Spring Data JPA and MySql as database. This application will perform below operations .
 
-<!---
-AnushGhodmare/AnushGhodmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Create Bank Account 
+Get the Bank Account details by Account number
+Get All the Bank Account details 
+Withdraw the money from account
+Deposit the money in account
+Delete or close the account 
