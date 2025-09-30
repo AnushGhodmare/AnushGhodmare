@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnushGhodmare
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning python
+- 👀 I am a Java Devloper
+- 🌱 I’m currently learning Spring ans Springboot
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me anushghodmare@gmail.com
 - 😄 Pronouns: He/Him
